@@ -1,0 +1,16 @@
+name: ml4
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python
+  - biopython
+  - scikit-learn
+  - numpy
+  - matplotlib
+  - scipy
+  - pip
+  - seaborn
+  - pip:
+    - glob2
