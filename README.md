@@ -5,7 +5,7 @@
 
 ## Установка и настройка окружения
 1. Установите Anaconda (если он не установлен) с официального сайта.
-2. Скачайте репозиторий с помощью команды `git clone https://github.com/SergeiNikolenko/ml.git`. 
+2. Скачайте репозиторий с помощью команды `git clone https://github.com/SergeiNikolenko/AntibodyCluster.git`. 
 3. Создайте новое окружение в Anaconda с помощью команды `conda env create -f environment.yml`.
 4. Для запуска скрипта необходимо активировать созданное окружение с помощью команды `conda activate ml4`.
 
