@@ -1,4 +1,4 @@
-# README.md
+# Antibody Sequence Extraction and Clustering
 
 ## Description
 This script is designed to extract amino acid sequences of antibodies from PDB files using the SAbDab database. 
